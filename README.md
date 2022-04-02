@@ -15,6 +15,42 @@
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
+<h1>Some of my previous projects</h1>
+
+<h2>SyriaTN</h2>
+<h4>SyriaTN is an android application built with flutter & firebase for booking mobile charge packages for the syrian citizens </h4>
+<h5>
+State management:GetX && 
+backend:Firebase && 
+payment gateway:PayPal gateway implemented with braintree and nodeJS function deployed on Google cloud functions
+</h5>
+
+<a href="https://www.behance.net/gallery/140302621/SyriaTN">
+ <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.saidmodev.syriatn.userapp
+">
+ <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<br></br>
+
+<h2>Cloud Motor</h2>
+<h4>Cloud Motor is an android application built with flutter for booking car services</h4>
+<h5>
+State management:GetX && 
+backend:Firebase && 
+payment gateway:Razorpay india
+</h5>
+
+<a href="https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29">
+ <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.saidmodev.cloudmotors
+">
+ <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<br></br>
+
 ![image](https://user-images.githubusercontent.com/59616620/161386810-3e404186-1ad7-49fd-abb5-54eda7b3b830.png)
 
 ![states](https://github-readme-stats.vercel.app/api/top-langs/?username=s448)
