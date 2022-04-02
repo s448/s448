@@ -19,6 +19,8 @@
 
 ![states](https://github-readme-stats.vercel.app/api/top-langs/?username=s448)
 
+![hit conter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4481212%2Fhit-counter)
+
 <h1>📫 How to reach me</h1>
 
  <a href="https://www.facebook.com/SaiedMuhammadHassan">
