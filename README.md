@@ -18,7 +18,8 @@
 <h1>Some of my previous projects</h1>
 
 <h2>SyriaTN</h2>
-<h4>SyriaTN is an android application built with flutter & firebase for booking mobile charge packages for the syrian citizens </h4>
+<h4>SyriaTN is a mobilization service for Syrian airlines, Syriatel and MTN, from anywhere in the world.
+We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and with a guarantee</h4>
 <h5>
 State management:GetX && 
 backend:Firebase && 
