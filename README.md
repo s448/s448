@@ -8,7 +8,8 @@
 
 <h1>My interests</h1>
 
-<img src="https://aljo3aid.com/wp-content/uploads/2018/03/google-flutter-logo.png" width="300" height="250"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>
