@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ASP.NET CORE & ANGULAR
 - 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with Flutter & nodeJS
+- 🤔 I’m looking for help with ASP.NET & nodeJS
 - 💬 Ask me about Flutter
 
 <h1>My interests</h1>
