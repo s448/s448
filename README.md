@@ -74,6 +74,21 @@ webServices:Dio
 </a>
 <br></br>
 
+<h2>Brain tumor classification using deep learning and MRI images</h2>
+<h4>My graduation project for detecting brain tumor using MRI images</h4>
+<h4>the project included : </h4>
+<h5>[1]-building Deep learning model based on CNN algorithm for detecting the tumor</h5>
+<h5>[2]-making API using Flask for the model</h5>
+<h5>[3]-building an application using flutter and web app that consume the API</h5>
+
+<a href="https://www.behance.net/gallery/140301377">
+ <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.saidmodev.gifstation">
+ <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<br></br>
+
 ![image](https://user-images.githubusercontent.com/59616620/161386810-3e404186-1ad7-49fd-abb5-54eda7b3b830.png)
 
 ![states](https://github-readme-stats.vercel.app/api/top-langs/?username=s448)
