@@ -6,9 +6,6 @@
 - 🤔 I’m looking for help with ASP.NET & nodeJS
 - 💬 Ask me about Flutter
 
-<h1>Languages<h1/>
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 
 <h1>My interests</h1>
 
@@ -98,6 +95,7 @@ webServices:Dio
 ![states](https://github-readme-stats.vercel.app/api/top-langs/?username=s448)
 
 ![hit conter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4481212%2Fhit-counter)
+
 
 <h1>IDE's</h1>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
