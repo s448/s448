@@ -81,11 +81,11 @@ webServices:Dio
 <h5>[2]-making API using Flask for the model</h5>
 <h5>[3]-building an application using flutter and web app that consume the API</h5>
 
-<a href="https://www.behance.net/gallery/140301377">
- <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+<a href="https://github.com/s448/tumor_segmentation">
+ <img src="https://img.shields.io/badge/App-Repository-green"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.saidmodev.gifstation">
- <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+<a href="https://github.com/s448/brain-tumor-flask-api">
+ <img src="https://img.shields.io/badge/Flask%20API-Repository-red"/>
 </a>
 <br></br>
 
