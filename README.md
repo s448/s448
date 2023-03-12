@@ -6,6 +6,10 @@
 - 🤔 I’m looking for help with ASP.NET & nodeJS
 - 💬 Ask me about Flutter
 
+<h1>Languages<h1/>
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+
 <h1>My interests</h1>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
