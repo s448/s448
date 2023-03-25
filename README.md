@@ -26,6 +26,7 @@
 <h1>Some of my previous projects</h1>
 
 <h2>SyriaTN</h2>
+<h3>🔥MVC-PayPal payments-GetX-Firebase(firestore)🔥</h3>
 <h4>SyriaTN is a mobilization service for Syrian airlines, Syriatel and MTN, from anywhere in the world.
 We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and with a guarantee</h4>
 <h5>
@@ -44,6 +45,7 @@ payment gateway:PayPal gateway implemented with braintree and nodeJS function de
 <br></br>
 
 <h2>Cloud Motor</h2>
+<h3>🔥MVC-Razprpay payments-GetX-Firebase(authentication-firestore)-dashboard app🔥</h3>
 <h4>Cloud Motor is an android application built with flutter for booking car services</h4>
 <h5>
 State management:GetX && 
@@ -60,6 +62,7 @@ payment gateway:Razorpay india
 <br></br>
 
 <h2>GIF Station</h2>
+<h3>🔥MVC-GetX-Http🔥</h3>
 <h4>An android application built with Flutter for Searching Downloading and sharing Gifs</h4>
 <h5>
 State management:BloC&Cubit && 
@@ -77,6 +80,7 @@ webServices:Dio
 
 <h2>Brain tumor classification using deep learning and MRI images</h2>
 <h4>My graduation project for detecting brain tumor using MRI images</h4>
+<h3>🔥MVC-Image picker-GetX-Dio🔥</h3>
 <h4>the project included : </h4>
 <h5>[1]-building Deep learning model based on CNN algorithm for detecting the tumor</h5>
 <h5>[2]-making API using Flask for the model</h5>
@@ -92,6 +96,7 @@ webServices:Dio
 
 <h2>Pets</h2>
 <h4>An e-commerce flutter application that help people take care of their pets since the app include any thing that you need related to pets</h4>
+<h3>🔥MVC-Firebase(cloud storage-authentication-cloud function)-GetX-chat with admin-kashier payments-google maps-multi user types🔥</h3>
 <h4>the app helps you : </h4>
 <h5>[1]-order any kind of animals' foods</h5>
 <h5>[2]-transprt your pets easily</h5>
