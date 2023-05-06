@@ -118,7 +118,6 @@ webServices:Dio
 
 <br></br>
 
-![image](https://user-images.githubusercontent.com/59616620/161386810-3e404186-1ad7-49fd-abb5-54eda7b3b830.png)
 
 ![hit conter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4481212%2Fhit-counter)
 
