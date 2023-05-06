@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ASP.NET & nodeJS
 - 💬 Ask me about Flutter
 
-<div style="max-width: 500px;margin: auto;">
+<div style="  width: 70%;margin: 0 auto;">
 
 <h1>My interests</h1>
 
