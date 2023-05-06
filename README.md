@@ -29,7 +29,9 @@
 
 <h1>Some of my previous projects</h1>
 
-<h2>SyriaTN</h2> <img src="https://camo.githubusercontent.com/825b9f57796bc1020ab4e80a1263da07752deaf2e967358587141e75beada9f2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466c757474657226636f6c6f723d303235363942266c6f676f3d466c7574746572266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
+<div style="display: flex;">
+ <h2>SyriaTN</h2> <img src="https://camo.githubusercontent.com/825b9f57796bc1020ab4e80a1263da07752deaf2e967358587141e75beada9f2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466c757474657226636f6c6f723d303235363942266c6f676f3d466c7574746572266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
+</div>
 <h3>🔥MVC-PayPal payments-GetX-Firebase(firestore)🔥</h3>
 <h4>SyriaTN is a mobilization service for Syrian airlines, Syriatel and MTN, from anywhere in the world.
 We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and with a guarantee</h4>
