@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ASP.NET & nodeJS
 - 💬 Ask me about Flutter
 
+<div style="max-width: 500px;margin: auto;">
 
 <h1>My interests</h1>
 
@@ -147,3 +148,5 @@ webServices:Dio
                                <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
                                <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
                                                                                                                                     
+
+</div>
