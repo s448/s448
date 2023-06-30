@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>
 </div>
 
-<h1>
+<h1 align="center">
  I have previous experience with
 </h1>
 <div style="display: flex;">
