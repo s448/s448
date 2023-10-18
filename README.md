@@ -81,6 +81,22 @@ webServices:Dio
 </a>
 <br></br>
 
+<h2>بيع وأشتري في الزقازيق</h2>
+<h3>🔥MVC-GetX-Firebase(firestore&authetication using email&password and google auth)-In app chat🔥</h3>
+<h4>Mobile application for people who are interested in buy and sell any thing in Zagazig city, also there is a part of the application concerned with publishing&finding Jobs,</h4>
+<h5>
+State management:GetX && 
+backend:Firebase && 
+</h5>
+
+<a href="https://www.behance.net/gallery/182576735/_?share=1">
+ <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.cnp.saidmodev">
+ <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<br></br>
+
 <h2>Brain tumor classification using deep learning and MRI images</h2>
 <h4>My graduation project for detecting brain tumor using MRI images</h4>
 <h3>🔥MVC-Image picker-GetX-Dio🔥</h3>
