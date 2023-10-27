@@ -16,11 +16,9 @@
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>
 </div>
 
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> |     |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----|
-|                                                                                                           | API                                                                                                   | JWT |
-|                                                                                                           |                                                                                                       |     |
-|                                                                                                           |                                                                                                       |     |
+| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>       |     |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----|
+| <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>   | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> | JWT |
 
 <h1 align="center">
  I have previous experience with
