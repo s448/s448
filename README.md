@@ -33,7 +33,9 @@
 | **Cloud Motor** | Cloud Motor is an android application built with Flutter for booking car services. | GetX | Firebase | [Behance](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29), [Google Play](https://play.google.com/store/apps/details?id=com.saidmo.cloudmotors) | [![Preview](https://mir-s3-cdn-cf.behance.net/project_modules/1400/8d644a140301377.623f1076eab30.jpg)](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29) |
 | **GIF Station** | An android application built with Flutter for Searching, Downloading, and sharing Gifs. | BloC & Cubit | RestAPI | [Behance](https://www.behance.net/gallery/140301377), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.gifstation) | [![Preview](https://camo.githubusercontent.com/011427b3bae6624485a4d29a511060ef44a8b652336788a69fa97f61c6780af0/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f69556375654649795544706930384e7a56664e37497a516362396777366673726754326a7366424562792d7a76316f5a326b304f64304a6c4650392d52553345797a63653d773732302d683331302d7277)](https://www.behance.net/gallery/140301377) |
 | **بيع وأشتري في الزقازيق** | Mobile application for people interested in buying and selling anything in Zagazig city, also includes a section for publishing & finding Jobs. | GetX | Firebase | [Behance](https://www.behance.net/gallery/182576735/_?share=1), [Google Play](https://play.google.com/store/apps/details?id=com.cnp.saidmodev) | [![Preview](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f1619182576735.6530093eaf3ad.png)](https://www.behance.net/gallery/182576735/_?share=1) |
-| **Brain Tumor Classification Using Deep Learning and MRI Images** | My graduation project for detecting brain tumor using MRI images. Building Deep learning model based on CNN algorithm for detecting the tumor, Making API using Flask for the model, Building an application using Flutter and web app that consume the API. | N/A | [App Repository](https://github.com/s448/tumor_segmentation), [Flask API Repository](https://github.com/s448/brain-tumor-flask-api) | N/A | [![Preview 1(https://github.com/s448/s448/assets/59616620/01a6c445-5e11-40b3-a4b1-681e3c7bd73a)](https://github.com/s448/s448/assets/59616620/01a6c445-5e11-40b3-a4b1-681e3c7bd73a)](https://github.com/s448/s448/assets/59616620/89a06516-80f2-4cab-b0cb-c09e78248054))](https://github.com/s448/tumor_segmentation) <br> [![Preview 2]([https://via.placeholder.com/150](https://github.com/s448/s448/assets/59616620/01a6c445-5e11-40b3-a4b1-681e3c7bd73a))](https://github.com/s448/tumor_segmentation) |
+| **Brain Tumor Classification Using Deep Learning and MRI Images** | My graduation project for detecting brain tumor using MRI images. Building Deep learning model based on CNN algorithm for detecting the tumor, Making API using Flask for the model, Building an application using Flutter and web app that consume the API. | N/A | [App Repository](https://github.com/s448/tumor_segmentation), [Flask API Repository](https://github.com/s448/brain-tumor-flask-api) | N/A | ![no-tumor](https://github.com/s448/s448/assets/59616620/541b8b49-dd21-4bb6-b36a-cf0a8287a952)
+([https://github.com/s448/tumor_segmentation](https://github.com/s448/tumor_segmentation)) <br> ![tumor-exist](https://github.com/s448/s448/assets/59616620/37524ea9-3588-4525-b99c-89ddd0a20f26)
+ |
 | **Pets** | An e-commerce flutter application that helps people take care of their pets. Order any kind of animals' foods, Transport your pets easily, Book veterinary services. | GetX | Firebase | [Google Drive Screenshots](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) | [![Preview](https://via.placeholder.com/150)](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) |
 
 
@@ -51,9 +53,20 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>
 
+
+
+
+
+
+
+
+
+
+
 ## 📫 How to Reach Me
 
-| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SaiedMuhammadHassan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-said-muhammed-28099a1b4/) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201557912724&text&app_absent=0) |
+| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SaiedMuhammadHassan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-![Uploading no-tumor.png…]()
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-said-muhammed-28099a1b4/) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201557912724&text&app_absent=0) |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
                                
