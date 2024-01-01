@@ -27,48 +27,15 @@
 
 ## Some of My Previous Projects
 
-### SyriaTN
+| Project | Description | State Management | Backend | Links | Preview |
+|---------|-------------|-------------------|---------|-------|---------|
+| **SyriaTN** | SyriaTN is a mobilization service for Syrian airlines, Syriatel, and MTN from anywhere in the world. We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and a guarantee. | GetX | Firebase | [Behance](https://www.behance.net/gallery/140302621/SyriaTN), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.syriatn.userapp) | [![Preview](https://via.placeholder.com/150)](https://www.behance.net/gallery/140302621/SyriaTN) |
+| **Cloud Motor** | Cloud Motor is an android application built with Flutter for booking car services. | GetX | Firebase | [Behance](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29), [Google Play](https://play.google.com/store/apps/details?id=com.saidmo.cloudmotors) | [![Preview](https://via.placeholder.com/150)](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29) |
+| **GIF Station** | An android application built with Flutter for Searching, Downloading, and sharing Gifs. | BloC & Cubit | RestAPI | [Behance](https://www.behance.net/gallery/140301377), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.gifstation) | [![Preview](https://via.placeholder.com/150)](https://www.behance.net/gallery/140301377) |
+| **بيع وأشتري في الزقازيق** | Mobile application for people interested in buying and selling anything in Zagazig city, also includes a section for publishing & finding Jobs. | GetX | Firebase | [Behance](https://www.behance.net/gallery/182576735/_?share=1), [Google Play](https://play.google.com/store/apps/details?id=com.cnp.saidmodev) | [![Preview](https://via.placeholder.com/150)](https://www.behance.net/gallery/182576735/_?share=1) |
+| **Brain Tumor Classification Using Deep Learning and MRI Images** | My graduation project for detecting brain tumor using MRI images. Building Deep learning model based on CNN algorithm for detecting the tumor, Making API using Flask for the model, Building an application using Flutter and web app that consume the API. | N/A | [App Repository](https://github.com/s448/tumor_segmentation), [Flask API Repository](https://github.com/s448/brain-tumor-flask-api) | N/A | [![Preview](https://via.placeholder.com/150)](https://github.com/s448/tumor_segmentation) |
+| **Pets** | An e-commerce flutter application that helps people take care of their pets. Order any kind of animals' foods, Transport your pets easily, Book veterinary services. | GetX | Firebase | [Google Drive Screenshots](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) | [![Preview](https://via.placeholder.com/150)](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) |
 
-- **Description:** SyriaTN is a mobilization service for Syrian airlines, Syriatel, and MTN from anywhere in the world. We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and a guarantee.
-- **State Management:** GetX
-- **Backend:** Firebase
-- **Payment Gateway:** PayPal gateway implemented with Braintree and Node.js function deployed on Google Cloud Functions
-- **Links:** [Behance](https://www.behance.net/gallery/140302621/SyriaTN), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.syriatn.userapp)
-
-### Cloud Motor
-
-- **Description:** Cloud Motor is an android application built with Flutter for booking car services.
-- **State Management:** GetX
-- **Backend:** Firebase
-- **Payment Gateway:** Razorpay India
-- **Links:** [Behance](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29), [Google Play](https://play.google.com/store/apps/details?id=com.saidmo.cloudmotors)
-
-### GIF Station
-
-- **Description:** An android application built with Flutter for Searching, Downloading, and sharing Gifs.
-- **State Management:** BloC & Cubit
-- **Backend:** RestAPI
-- **Web Services:** Dio
-- **Links:** [Behance](https://www.behance.net/gallery/140301377), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.gifstation)
-
-### بيع وأشتري في الزقازيق
-
-- **Description:** Mobile application for people interested in buying and selling anything in Zagazig city, also includes a section for publishing & finding Jobs.
-- **State Management:** GetX
-- **Backend:** Firebase
-- **Links:** [Behance](https://www.behance.net/gallery/182576735/_?share=1), [Google Play](https://play.google.com/store/apps/details?id=com.cnp.saidmodev)
-
-### Brain Tumor Classification Using Deep Learning and MRI Images
-
-- **Description:** My graduation project for detecting brain tumor using MRI images. Building Deep learning model based on CNN algorithm for detecting the tumor, Making API using Flask for the model, Building an application using Flutter and web app that consume the API.
-- **Links:** [App Repository](https://github.com/s448/tumor_segmentation), [Flask API Repository](https://github.com/s448/brain-tumor-flask-api)
-
-### Pets
-
-- **Description:** An e-commerce flutter application that helps people take care of their pets. Order any kind of animals' foods, Transport your pets easily, Book veterinary services.
-- **State Management:** GetX
-- **Backend:** Firebase
-- **Links:** [Google Drive Screenshots](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link)
 
 ![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4481212%2Fhit-counter)
 
