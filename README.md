@@ -1,73 +1,81 @@
-### <h1>Hi there, I'm Said Muhammad 👋</h1>
+# Hi there! 👋 I'm Said Mohamed
 
-- 🌱 I’m currently learning ASP.NET CORE & ANGULAR
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with ASP.NET & nodeJS
-- 💬 Ask me about Flutter
+### 🚀 About Me
+I'm a passionate **Flutter Developer** with a strong foundation in software engineering. I have experience in building robust applications while following **OOP, SOLID principles, MVC design pattern, and Clean Architecture**. I also have a solid understanding of data structures and algorithms.
 
+- 🎓 **Bachelor's Degree in Computer Science** - Zagazig University (2019-2023)
+- 🏅 **ITI Summer Intern** - Full-stack web development using .NET
+- 🏢 **Military Service** - Completed
 
-<h1>My interests</h1>
+---
 
+### 🛠️ Technologies & Tools
 
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>       |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>   | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+#### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-6800FF?style=for-the-badge&logo=getx&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-0095FF?style=for-the-badge&logo=bloc&logoColor=white)
 
+#### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-
-## I Have Previous Experience With
-
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-</div>
-
-## Some of My Previous Projects
-
-| Project | Description | State Management | Backend | Links | Preview |
-|---------|-------------|-------------------|---------|-------|---------|
-| **SyriaTN** | SyriaTN is a mobilization service for Syrian airlines, Syriatel, and MTN from anywhere in the world. We also offer an IPTV subscription service for all Arabs in all countries, with the best quality and a guarantee. | GetX | Firebase | [Behance](https://www.behance.net/gallery/140302621/SyriaTN), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.syriatn.userapp) | [![Preview](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/300046140302621.623f17239e7e8.jpg)](https://www.behance.net/gallery/140302621/SyriaTN) |
-| **Cloud Motor** | Cloud Motor is an android application built with Flutter for booking car services. | GetX | Firebase | [Behance](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29), [Google Play](https://play.google.com/store/apps/details?id=com.saidmo.cloudmotors) | [![Preview](https://mir-s3-cdn-cf.behance.net/project_modules/1400/8d644a140301377.623f1076eab30.jpg)](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29) |
-| **GIF Station** | An android application built with Flutter for Searching, Downloading, and sharing Gifs. | BloC & Cubit | RestAPI | [Behance](https://www.behance.net/gallery/140301377), [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.gifstation) | [![Preview](https://camo.githubusercontent.com/011427b3bae6624485a4d29a511060ef44a8b652336788a69fa97f61c6780af0/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f69556375654649795544706930384e7a56664e37497a516362396777366673726754326a7366424562792d7a76316f5a326b304f64304a6c4650392d52553345797a63653d773732302d683331302d7277)](https://www.behance.net/gallery/140301377) |
-| **بيع وأشتري في الزقازيق** | Mobile application for people interested in buying and selling anything in Zagazig city, also includes a section for publishing & finding Jobs. | GetX | Firebase | [Behance](https://www.behance.net/gallery/182576735/_?share=1), [Google Play](https://play.google.com/store/apps/details?id=com.cnp.saidmodev) | [![Preview](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f1619182576735.6530093eaf3ad.png)](https://www.behance.net/gallery/182576735/_?share=1) |
-| **Brain Tumor Classification Using Deep Learning and MRI Images** | My graduation project for detecting brain tumor using MRI images. Building Deep learning model based on CNN algorithm for detecting the tumor, Making API using Flask for the model, Building an application using Flutter and web app that consume the API. | N/A | [App Repository](https://github.com/s448/tumor_segmentation), [Flask API Repository](https://github.com/s448/brain-tumor-flask-api) | N/A | [![Preview 1](https://github.com/s448/s448/assets/59616620/e17d2f4e-755d-4268-a017-697e00cdbcd1)](https://github.com/s448/tumor_segmentation) <br> [![Preview 2](https://github.com/s448/s448/assets/59616620/761dea80-6924-4eba-93e0-26ec3e65e9eb)](https://github.com/s448/tumor_segmentation) |
- **Pets** | An e-commerce flutter application that helps people take care of their pets. Order any kind of animals' foods, Transport your pets easily, Book veterinary services. | GetX | Firebase | [Google Drive Screenshots](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) | [![Preview](https://via.placeholder.com/150)](https://drive.google.com/drive/folders/1h-HNaZybySEBRAriK4BFa-_T0Evj7iWX?usp=share_link) |
-| **Disan** | Free interactive platform to collect, organize, and display wedding requirements, clothes for men and women, and fashion. The store communicates with its followers via chat. The survival of your content depends on interaction on the platform. The greater the interaction, the longer it will remain. | GetX | Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.saidmodev.disan) | [![Preview](https://github.com/s448/s448/assets/59616620/6f1925f2-e161-4c26-ab7d-d9b8ad2bcb48)](https://github.com/s448/s448/assets/59616620/6f1925f2-e161-4c26-ab7d-d9b8ad2bcb48) |
+### **Backend & Database**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-0C9D58?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
+#### **Tools & Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-FF4500?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-008080?style=for-the-badge)
 
-![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs4481212%2Fhit-counter)
+---
 
-## IDE's
+## 📌 Featured Projects
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-</div>
+- **Commercial** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/AspNetCoreBlazorECommerceApp)
+  
+  Full-stack E-commerce web app using .NET, Blazor, JWT, and Stripe payments.
+
+- **Pets** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/pets)
+  
+  Flutter app to help pet lovers find transport agents, food, and accessories.
+
+- **Syria-TN** [![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.saidmodev.syriatn) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/app/com.saidmodev.syriatn) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/gallery/140302621/SyriaTN)
+  
+  Flutter app for mobile balance charging in Syria telecom agencies.
+
+- **Cloud Motor** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/cloud_motors/) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/gallery/140301377/Cloud-Motor-%28Best-Car-Service-app%29)
+  
+  Flutter app for booking car cleaning/maintenance with online payments.
+
+- **Zagazig App** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/gallery/182576735/_)
+  
+  Helps Zagazig citizens find their needs.
+
+- **Brain Tumor Classification** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/tumor_segmentation) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/)
+  
+  Graduation project using Flutter & Deep Learning Flask API for MRI image classification.
+
+- **Disan** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/disan)
+  
+  A free interactive platform for organizing and displaying wedding requirements, fashion, and clothing for men and women, with chat functionality for stores and users.
+
+---
 
 
+### 👨‍💼 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s448)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-said-muhammed-28099a1b4)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/saidmohamed11)
 
-
-
-
-
-
-
-
-
-## 📫 How to Reach Me
-
-| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SaiedMuhammadHassan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-said-muhammed-28099a1b4/) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201557912724&text&app_absent=0) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-                               
-<h1>Operating Systems</h1>
-                               <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-                               <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-                                                                                                                  
+📩 **Email**: [sa3idmu7ammad@gmail.com](mailto:sa3idmu7ammad@gmail.com)
