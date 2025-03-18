@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Said Mohamed
 
 ### 🚀 About Me
-I'm a passionate **Flutter Developer** with a strong foundation in software engineering. I have experience in building robust applications while following **OOP, SOLID principles, MVC design pattern, and Clean Architecture**. I also have a solid understanding of data structures and algorithms.
+I'm a passionate **Flutter Developer** & **Dot net Developer** with a strong foundation in software engineering. I have experience in building robust applications while following **OOP, SOLID principles, MVC design pattern, and Clean Architecture**. I also have a solid understanding of data structures and algorithms.
 
 - 🎓 **Bachelor's Degree in Computer Science** - Zagazig University (2019-2023)
 - 🏅 **ITI Summer Intern** - Full-stack web development using .NET
