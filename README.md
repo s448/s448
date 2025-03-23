@@ -70,6 +70,10 @@ I'm a passionate **Flutter Developer** & **Dot net Developer** with a strong fou
   
   A free interactive platform for organizing and displaying wedding requirements, fashion, and clothing for men and women, with chat functionality for stores and users.
 
+  - **EU portal** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s448/euportal)
+  
+  A mobile application designed to serve Arabs residing in Europe by providing essential services that facilitate their daily lives. The app includes a comprehensive directory of mosques, doctors, restaurants, and many other useful services tailored for the Arab community in European countries
+
 ---
 
 
